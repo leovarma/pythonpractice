@@ -15,7 +15,7 @@ def one_arg(arg1):
 def no_arg():
     print "I got nothing"
 
-print_two("Varma", "Sruthi")
+print_two("Vasrma", "Sruthi")
 printwo_again("Sruthi", "Agastya")
 one_arg("Varma")
 no_arg()
